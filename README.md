@@ -1,1 +1,1 @@
-![alt text](sovietcatsovicat.gif)
+![alt text](images/sovietcatsovicat.gif)
