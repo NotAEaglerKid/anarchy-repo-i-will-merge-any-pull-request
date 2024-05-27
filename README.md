@@ -3,3 +3,6 @@
 ![alt text](images/dance.gif "dance dance dance")  
 _**```[ hi ]```**_  
 [^1]: footnote
+
+## Known Issues
+[#2 dead chat](/../../issues/2)
